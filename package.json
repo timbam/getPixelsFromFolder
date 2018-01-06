@@ -2,7 +2,7 @@
   "name": "timfunctions",
   "version": "1.0.0",
   "description": "\"Divers JavaScript functions\"",
-  "main": "src/index.js",
+  "main": "src/getPixelsFromFolder.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

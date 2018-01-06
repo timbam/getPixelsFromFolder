@@ -1,14 +1,14 @@
 {
-  "name": "timfunctions",
+  "name": "getPixelsFromFolder",
   "version": "1.0.0",
-  "description": "\"Divers JavaScript functions\"",
+  "description": "Get pixels(Width & Height) from all pictures in a folder",
   "main": "src/getPixelsFromFolder.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/timbam/timfunctions"
+    "url": "https://github.com/timbam/getPixelsFromFolder"
   },
   "author": "Tim Barbier <'timbarbier88@gmail.com'>",
   "license": "MIT",

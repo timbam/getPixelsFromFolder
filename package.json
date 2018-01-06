@@ -1,7 +1,7 @@
 {
-  "name": "getPixelsFromFolder",
+  "name": "get-pixels-from-folder",
   "version": "1.0.0",
-  "description": "Get pixels(Width & Height) from all pictures in a folder",
+  "description": "Get pixels(Width & Height) from all pictures in a folder.",
   "main": "src/getPixelsFromFolder.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,6 +13,6 @@
   "author": "Tim Barbier <'timbarbier88@gmail.com'>",
   "license": "MIT",
   "dependencies": {
-    "get-pixels": "3.3.0",
+    "get-pixels": "3.3.0"
   }
 }
